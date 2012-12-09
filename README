@@ -1,0 +1,3 @@
+This is/will be a little toolkit for taking Jet 4 data from
+a point of sale system, converting it to sqlite, and generating
+useful reports from Python.
